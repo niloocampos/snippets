@@ -34,3 +34,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Environment variables
+.env
+# Local database file
+dev.db
+
+# Migration lock file
+migration_lock.toml
+
+
